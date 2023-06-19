@@ -1,44 +1,44 @@
-# Projeto Jogo da memória 
+# Projeto Jogo da Memória
 
-Projeto de um jogo da memória com o tema de The Office. 
+Um jogo da memória com o tema da série The Office. 
 
-## Índice 
-
-- <a href="#layout">Layout </a>
-- <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
-- <a href="#como-acessar esse projeto">Como acessar esse projeto</a>
-- <a href="#como-rodar-esse-projeto">Como rodar esse projeto</a>
-- <a href="#autora">Autora</a>
-- <a href="#proximos-passos">Próximos passos</a>
- 
-## Layout
-
-![login](./images/login.png)
-![Tela-do-jogo](./images/tela%20do%20jogo.png)
+## Índice
+- <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>
+- <a href="#layout">Layout</a>
+- <a href="#como-acessar-esse-projeto">Como acessar esse projeto</a>
+- <a href=#como-rodar-esse-projeto>Como rodar esse projeto</a>
+- <a href="#pessoas-autoras">Pessoas Autoras </a>
+- <a href="#próximos-passos">Próximos Passos </a>
 
 ## Tecnologias utilizadas
 
-- HTML 
+Foi utilizado nesse projeto:
+- HTML
 - CSS
 - JavaScript
 
+## Layout 
+
+![login](/images/login.png)
+![tela do jogo](/images/tela%20do%20jogo.png)
+
 ## Como acessar esse projeto
 
-1. Beixe os arquivos 
-2. Abra o Visual Studio Code 
-3. Clique em File 
-4. Clique Open file 
-5. Selecione a pasta do arquivo 
+Após baixar o projeto, você pode abrir com o VS Studio Code. Para isso, clique em:
 
-## Como rodar esse projeto
+- File
+- Open file
+- Procure o local onde o projeto está e selecione (Caso o projeto seja baixado via zip, é necessário extraílo antes de procurá-lo)
+- Por fim clique em Abrir. 
 
-Acesse a pasta *pages* e clique duas vezes no arquivo *index*
+## Como rodar esse projeto 
 
-## Autora
+Para rodar o projeto, você pode abrir a pasta do arquivo, procurar a pasta *pages* e depois clicar no arquivo *index*.
+
+## Pessoas autoras 
 
 [LinkedIn](https://www.linkedin.com/in/camila-marques-972791137/)
 
-## Próximos passos
+## Próximos Passos
 
-<p>Criar Botão de iniciar o jogo.</p>
-<p>Adicionar um ranking de jogadores.</p> 
+- [] Criar um ranking de usuários do jogo.

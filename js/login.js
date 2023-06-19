@@ -22,7 +22,7 @@ const handleSubmit = (event) => {
     //salvar no local storage
     localStorage.setItem('player', input.value);
     //redirecionamento da pessoa para a página do jogo
-    window.location = '/pages/game.html';
+    window.location = './pages/game.html';
 }
 
 input.addEventListener('input', validateInput);
